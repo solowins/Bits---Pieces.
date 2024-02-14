@@ -1,0 +1,23 @@
+* {padding:0px;
+    margin:0px;
+     }
+   
+   .header {width:100vw;
+           height:50vh;
+           display:flex;
+            flex-direction:column;
+            justify_content:
+           }
+   
+   .banner {width: 100vw;
+           height: 40vh;
+          }
+   
+   .nav {width:100vw;
+         height:10vh;
+         background-color:#778899;
+        }
+   
+   .banner img {width: 100vw;
+                height: auto;
+               }
